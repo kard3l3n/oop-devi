@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.deps.json
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.runtimeconfig.json
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.runtimeconfig.dev.json
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.dll
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.pdb
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.AssemblyInfo.cs
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.dll
+C:\Users\HP\source\repos\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\netcoreapp2.1\KutuphaneYonetimSistemi.pdb
